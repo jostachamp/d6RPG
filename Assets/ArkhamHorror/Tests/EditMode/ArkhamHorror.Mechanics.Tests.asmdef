@@ -1,0 +1,14 @@
+{
+  "name": "ArkhamHorror.Mechanics.Tests",
+  "rootNamespace": "ArkhamHorror.Mechanics.Tests",
+  "references": [
+    "ArkhamHorror.Mechanics"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}
